@@ -17,6 +17,6 @@ public class ClaseNueva {
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null, "Hola Pancho");
         // no me funca
-        JOptionPane.showMessageDialog(null, "Hola cacho");
+        JOptionPane.showMessageDialog(null, "Hola Cacho");
     }
 }
