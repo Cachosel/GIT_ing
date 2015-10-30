@@ -6,6 +6,8 @@
 
 package ingenieria;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Joaquin
@@ -17,6 +19,8 @@ public class Ingenieria {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        JOptionPane.showMessageDialog(null,"Hola Pancho"); 
+        
     }
     
 }
