@@ -6,10 +6,15 @@
 
 package ingenieria;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Joaquin
  */
+
 public class ClaseNueva {
-    
+    public static void main(String[] args) {
+        JOptionPane.showMessageDialog(null, "Hola Pancho");
+    }
 }
